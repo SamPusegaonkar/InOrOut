@@ -1,6 +1,6 @@
 # Tennis_InOrOut
 
-** Repo currently does not consist of the dataset. Will update soon!**
+**Repo currently does not consist of the dataset. Will update soon!**
 A tennis serve dataset classified as 'in' or 'out' in python
 
 **The above code is written in Python Language.**

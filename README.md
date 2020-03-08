@@ -1,4 +1,4 @@
-# Tennis_InOrOut
+# InOrOut
 
 **The above code is written in Python Language.**
 

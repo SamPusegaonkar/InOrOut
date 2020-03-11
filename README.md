@@ -1,28 +1,16 @@
 # InOrOut
 
-**The above code is written in Python Language.**
+**This repo consists of a dataset**
 
-**Description**: This repo consists of a dataset and a CNN model written in Keras.
-<br/>
-
-**Dataset is present in google drive**<br/>
-A tennis trajectory dataset classified as 'in' or 'out' in python. The dataset consists of aroud 7700 images and has 15 different stadiums.<br/>
+**Description**: Dataset is present in google drive. A tennis trajectory dataset classified as 'in' or 'out' in python. The dataset consists of aroud 7700 images and has 15 different stadiums.<br/>
 
 In:  https://drive.google.com/open?id=1lJoeercLEd6CTqRB9gyMSV8YmWQU1SLt 
  
 Out: https://drive.google.com/open?id=1WHxgdKDhxFHgchi2Uqw7GUUywsxpUqKS<br/>
 Some test images are shown below!
-
-  **Required /Libraries**:     
-  
-    * Jupyter Notebook
-    * Tensorflow
-    * Keras
-    * OpenCV
-    * Matplotlib
         
   **Instructions**: 
-  To run the model, open the 'InOrOut_Keras.ipynb' file and run the cells.
+  To download the dataset, click on the links below.
 
 ![_in_front20116](https://user-images.githubusercontent.com/12711480/70693617-d088c680-1ce3-11ea-9896-1bec9d1a5ade.png)
 
